@@ -85,6 +85,7 @@ A selected example from the project is the date-validation implementation, which
 ### Add Expense
 #### Entering an Expense
 <img width="1018" height="1025" alt="Screenshot (484)" src="https://github.com/user-attachments/assets/fab7d899-8481-4749-88cd-778095568a45" />
+
 #### Successful Submission
 <img width="1055" height="1027" alt="Screenshot (485)" src="https://github.com/user-attachments/assets/d1e8cee2-d9ef-436b-8f83-4c91aa611735" />
 
@@ -97,7 +98,7 @@ A selected example from the project is the date-validation implementation, which
 <img width="353" height="171" alt="Screenshot (488)" src="https://github.com/user-attachments/assets/b905f702-ccee-47f5-b0be-1ff9fa90b3f5" />
 
 #### Search Results
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2b5037be-3e53-417b-adf2-ff231f98f680" />
+<img width="1114" height="1023" alt="Screenshot (489)" src="https://github.com/user-attachments/assets/ec4cbc8f-a304-47b3-a1b3-ab57032ff84a" />
 
 ## Project Highlights
 
