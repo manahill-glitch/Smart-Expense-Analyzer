@@ -95,6 +95,7 @@ A selected example from the project is the date-validation implementation, which
 ### Search / Expense Records
 #### Search Dialog Box
 <img width="353" height="171" alt="Screenshot (488)" src="https://github.com/user-attachments/assets/b905f702-ccee-47f5-b0be-1ff9fa90b3f5" />
+
 #### Search Results
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2b5037be-3e53-417b-adf2-ff231f98f680" />
 
