@@ -112,5 +112,7 @@ Project Purpose
 This project was developed as an academic programming project to strengthen practical understanding of Java, Object-Oriented Programming, graphical user interface development, input validation, and application design.
 
 Author
+
 Manahil Rehman
+
 BS Artificial Intelligence Student
