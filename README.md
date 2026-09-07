@@ -80,19 +80,23 @@ A selected example from the project is the date-validation implementation, which
 ## Program Output
 ### Main Interface
 
-Add your application screenshot here.
+<img width="1920" height="1027" alt="Screenshot (483)" src="https://github.com/user-attachments/assets/686380b4-8430-45f9-ac42-5b5985af6729" />
 
 ### Add Expense
-
-Add your Add Expense screenshot here.
+#### Entering an Expense
+<img width="1018" height="1025" alt="Screenshot (484)" src="https://github.com/user-attachments/assets/fab7d899-8481-4749-88cd-778095568a45" />
+#### Successful Submission
+<img width="1055" height="1027" alt="Screenshot (485)" src="https://github.com/user-attachments/assets/d1e8cee2-d9ef-436b-8f83-4c91aa611735" />
 
 ### Expense Analysis
 
-Add your expense analysis screenshot here.
+<img width="1077" height="1026" alt="Screenshot (486)" src="https://github.com/user-attachments/assets/ea75a0ee-f11e-4367-bfb0-58c752d2a51d" />
 
 ### Search / Expense Records
-
-Add your search or expense records screenshot here.
+#### Search Dialog Box
+<img width="353" height="171" alt="Screenshot (488)" src="https://github.com/user-attachments/assets/b905f702-ccee-47f5-b0be-1ff9fa90b3f5" />
+#### Search Results
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2b5037be-3e53-417b-adf2-ff231f98f680" />
 
 ## Project Highlights
 
