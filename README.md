@@ -48,7 +48,7 @@ Smart-Expense-Analyzer/
 │
 └── README.md
 ```
-##How It Works
+## How It Works
 
 The application provides a graphical interface through which users can enter and manage their expenses.
 
@@ -56,7 +56,7 @@ Users can add expense information, validate the entered data, search for specifi
 
 The application uses separate classes and methods to organize its functionality and applies Object-Oriented Programming principles throughout the system.
 
-##Object-Oriented Design
+## Object-Oriented Design
 
 The project demonstrates practical use of Object-Oriented Programming through:
 
@@ -71,30 +71,30 @@ The application includes validation mechanisms to improve data accuracy and prev
 
 Date validation checks the entered date format, month and day ranges, valid calendar dates, and prevents the selection of inappropriate past dates.
 
-##Selected Implementation
+## Selected Implementation
 
 The project contains dedicated validation and expense-management methods that handle user input and application logic.
 
 A selected example from the project is the date-validation implementation, which demonstrates how the application checks whether an entered date is valid before processing the expense.
 
-##Program Output
-###Main Interface
+## Program Output
+### Main Interface
 
 Add your application screenshot here.
 
-###Add Expense
+### Add Expense
 
 Add your Add Expense screenshot here.
 
-###Expense Analysis
+### Expense Analysis
 
 Add your expense analysis screenshot here.
 
-###Search / Expense Records
+### Search / Expense Records
 
 Add your search or expense records screenshot here.
 
-##Project Highlights
+## Project Highlights
 
 Language: Java
 GUI Framework: Java Swing
